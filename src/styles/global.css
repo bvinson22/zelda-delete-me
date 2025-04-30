@@ -1,4 +1,13 @@
+
+
 /* Normalize CSS */
+
+/* Change Case */
+l2{
+    text-transform: capitalize;
+    
+}
+
 
 /* Header */
 .masthead {
